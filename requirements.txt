@@ -19,7 +19,7 @@ soupsieve==2.4.1
 TgCrypto==1.2.5
 urllib3==2.0.3
 websockets==12.0
-yt-dlp==2024.7.25
+youtube-dl
 motor
 aiohttp==3.8.4
 aiofiles
