@@ -1,4 +1,6 @@
 async-lru==2.0.2
+yt-dlp
+pytube
 cloudscraper
 beautifulsoup4==4.9.3
 ffmpeg
